@@ -21,7 +21,7 @@
 &nbsp;
 [![Email](https://img.shields.io/badge/ProtonMail-Workernova-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0d0000)](mailto:Workernova@proton.me)
 &nbsp;
-[![Location](https://img.shields.io/badge/📍_Uruapan_MX-UTC--6-cc0000?style=for-the-badge&labelColor=1a0000)](https://github.com/wavegxz-design)
+[![Location](https://img.shields.io/badge/📍_Mexico-UTC--6-cc0000?style=for-the-badge&labelColor=1a0000)](https://github.com/wavegxz-design)
 
 </div>
 
@@ -33,7 +33,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wavegxz-design&layout=compact&bg_color=0d0000&border_color=cc0000&title_color=ff4444&text_color=ffaaaa&custom_title=Languages&hide_border=false" width="38%" alt="Top Languages"/>
 
-**Red Team Operator** and open source security researcher based in Uruapan, Michoacán, México.
+**Red Team Operator** and open source security researcher based in Mexico 🇲🇽 UTC-6.
 
 I design and build offensive security tools from scratch — every module is tested in authorized environments, every vulnerability class is documented for defenders.
 
@@ -58,7 +58,7 @@ Currently publishing **13 open source security tools** used by researchers and r
   focus     : Web Exploitation · Network Pentesting
               OSINT & Intelligence · Malware Analysis / RE
               Android/ADB Security · Tool Development
-  location  : Uruapan, Michoacán · Mexico 🇲🇽 UTC-6
+  location  : Mexico 🇲🇽 UTC-6
   tools     : 13 open source security tools published
   contact   : github.com/wavegxz-design | t.me/Skrylakk
   status    : 🟢 AVAILABLE FOR AUTHORIZED ENGAGEMENTS
